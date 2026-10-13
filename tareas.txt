@@ -1,0 +1,4 @@
+LISTA DE TAREAS - PROYECTO GIT
+[COMPLETADAS] Crear repositorio y idea.txt
+[EN PROCESO] Validar idea con usuarios de la region
+[PENDIENTE] Preparar entrega final
