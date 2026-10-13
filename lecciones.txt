@@ -1,0 +1,4 @@
+LECCIONES APRENDIDAS
+Git permite control total del historial.
+Los commit messages claros cuentan la historia del proyecto.
+La creatividad genera ideas, la innovacion las implementa.
